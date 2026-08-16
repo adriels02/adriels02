@@ -61,5 +61,5 @@ No meu portfólio você encontra mais projetos, experiência profissional, curr�
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adriel-leite-15080224a/">LinkedIn</a> •
-  <a href="mailto:adriel.leite012@gmail.com">Email</a>
+  <a href="mailto:adriel.leite012@gmail.com">adriel.leite012@gmail.com</a>
 </p>
